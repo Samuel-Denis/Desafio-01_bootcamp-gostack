@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add express
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Users\WIN10\AppData\Local\Microsoft\WindowsApps;C:\Users\WIN10\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\nodejs\;C:\Users\WIN10\AppData\Local\Microsoft\WindowsApps;C:\Users\WIN10\AppData\Local\Programs\Microsoft VS Code\bin;C:\src\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\WIN10\AppData\Roaming\Pub\Cache\bin;C:\Users\WIN10\AppData\Local\Yarn\bin;C:\Users\WIN10\AppData\Roaming\npm
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  12.14.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect ETIMEDOUT 104.16.23.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16)
+
+npm manifest: 
+  {
+    "name": "desafio01",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
